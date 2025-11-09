@@ -455,7 +455,7 @@ By completing this project, I learned:
 ## 👨‍💻 Author
 
 **Naga Sri Harsha Vardhan Kanaparthi**
-- Course: Computer Security
+- Course: PISP
 - Project: Custom Hash Function Implementation
 - Date: Nov 9th 2025
 - Repository: https://github.com/HKanaparthi/Custom-Hash-Functions
