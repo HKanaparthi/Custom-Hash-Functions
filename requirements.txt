@@ -1,0 +1,28 @@
+# Requirements for SimpleHash256 Custom Hash Function
+# 
+# This project has NO external dependencies by design!
+# All cryptographic operations are implemented from scratch.
+#
+# Python Standard Library modules used:
+# - No external packages required
+#
+# Minimum Python Version: 3.7+
+#
+# For testing and demonstration (all built-in):
+# - random (standard library)
+# - string (standard library)
+# - time (standard library)
+# - os (standard library)
+# - sys (standard library)
+# - hashlib (only used for comparison in demo, NOT in implementation)
+#
+# Installation:
+# No installation needed! Just ensure you have Python 3.7 or higher.
+#
+# To verify Python version:
+# python --version
+#
+# To run the project:
+# python hash_function.py    # Basic demonstration
+# python test_hash.py        # Run test suite
+# python demo.py             # Interactive demo
