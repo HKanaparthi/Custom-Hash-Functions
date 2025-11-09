@@ -178,7 +178,7 @@ hash("Hello, World!") vs hash("Hello, World?")
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/custom-hash-function.git
+git clone https://github.com/HKanaparthi/Custom-Hash-Functions
 cd custom-hash-function
 ```
 
@@ -444,7 +444,7 @@ By completing this project, I learned:
 ### Educational Resources
 4. "Understanding Cryptography" by Christof Paar
 5. [Serious Cryptography](https://nostarch.com/seriouscrypto) by Jean-Philippe Aumasson
-6. [Course Materials] - Computer Security Course Notes
+6. [Course Materials] - PISP Course Materials
 
 ### Implementation References
 7. Python Documentation - [Bitwise Operations](https://docs.python.org/3/library/stdtypes.html)
@@ -454,11 +454,11 @@ By completing this project, I learned:
 
 ## 👨‍💻 Author
 
-**[Your Name]**
+**Naga Sri Harsha Vardhan Kanaparthi**
 - Course: Computer Security
 - Project: Custom Hash Function Implementation
-- Date: [Current Date]
-- Repository: [GitHub Link]
+- Date: Nov 9th 2025
+- Repository: https://github.com/HKanaparthi/Custom-Hash-Functions
 
 ---
 
@@ -481,8 +481,8 @@ This project is created for educational purposes as part of a university course 
 ## 📧 Contact
 
 For questions about this project:
-- Email: [your.email@university.edu]
-- GitHub: [@yourusername]
+- Email: nkanapar@charlotte.edu
+- GitHub: https://github.com/HKanaparthi
 
 ---
 
@@ -490,4 +490,4 @@ For questions about this project:
 
 ---
 
-*Last Updated: [Date]*
+*Last Updated: Nov 9th 2025*
